@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+
+.image{
+	width: 200px;
+/* 	box-sizing: border-box; */
+}
+
+.pic{
+	width: 200px;
+}
+
+.text{
+	width: 600px;
+	text-align: center;
+}
